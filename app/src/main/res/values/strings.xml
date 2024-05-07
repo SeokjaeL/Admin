@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Admin</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_id">Admin ID</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="main_text">Yuhan19+</string>
+
+    <!-- Page Title -->
+    <string name="login_title">Yuhan 19+ Admin</string>
+
+    <!-- 관리자 목록 페이지 -->
+    <string name="adminList_title">관리자 목록</string>
+    <string name="searchAdminIdHint">관리자 ID를 입력하세요</string>
+
+    <!-- 모드 -->
+    <string name="dark_mode">Dark</string>
+    <string name="light_mode">Light</string>
+
+    <!-- 메뉴 -->
+    <string name="home">관리자</string>
+    <string name="member">회원관리</string>
+    <string name="product_register">상품관리</string>
+    <string name="payment">결제내역</string>
+    <string name="product_management">상품등록</string>
+
+    <!-- Home 메뉴 -->
+    <string name="adminListMenu">관리자\n목록</string>
+    <string name="adminScheduleMenu">관리자\n일정</string>
+    <string name="adminMenu">팀장</string>
+    <string name="adminLoginMenu">로그인</string>
+
+    <!-- User 메뉴 -->
+    <string name="search">검색</string>
+    <string name="searchIdHint">회원ID를 입력하세요</string>
+
+    <!-- 결제 내역 메뉴-->
+    <string name="paySearchIdHint">회원ID를 입력하세요</string>
+
+    <!-- 상품등록 메뉴 -->
+    <string name="productNameTitle">상품명</string>
+</resources>
